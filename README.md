@@ -10,4 +10,4 @@ Scrap the car section of blocket.se and save the info in csv file.
 
 ## search engine
 a search engine on compiled wikidata
-based on tf-idf model and distance
+based on tf-idf model and vector distance
